@@ -3,6 +3,7 @@
 ***
 Product catalog with manager notification and data transfer to / from Google spreadsheet.
 ## [DEMO](README.demo.md)
+## [LIVE](https://t.me/Two2Lives_bot)
 ## Functionality:
 1. Uploads a catalog from google sheets to the database with which the bot interacts
 2. Based on the catalog, it generates a navigation menu
